@@ -1,2 +1,3 @@
 echo "This shell script"
 date
+hostname
