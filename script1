@@ -2,3 +2,4 @@ echo "This shell script"
 date
 hostname
 df -l
+fcal
