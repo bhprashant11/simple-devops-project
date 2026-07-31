@@ -1,5 +1,4 @@
 echo "This shell script got executed"
 date
-hostname
-df -l
+
 
