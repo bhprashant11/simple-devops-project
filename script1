@@ -1,4 +1,4 @@
-echo "This shell script got executed"
+echo "Done chnages"
 date
-
+hostname
 
